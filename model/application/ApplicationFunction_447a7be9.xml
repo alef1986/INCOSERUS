@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Отправка email"
+    id="447a7be9"
+    documentation="Отправка писем на электропочту группы"/>

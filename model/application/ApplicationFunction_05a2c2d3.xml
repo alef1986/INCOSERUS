@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Рассылка email по списку адресов"
+    id="05a2c2d3"
+    documentation="Рассылка писем, полученных на электропочту группы incose-ru-info@googlegroups.com, по адресам из списка участников группы, одобривших получение писем"/>

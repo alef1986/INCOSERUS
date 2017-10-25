@@ -1,0 +1,11 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="e1390666">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_510fab85.xml#510fab85"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_1cb042b0.xml#1cb042b0"/>
+</archimate:AssignmentRelationship>
