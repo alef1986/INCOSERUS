@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="проект порождает"
+    id="6b023ca3-802e-421e-8a83-12e272386d00">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_113916d8-87b7-41a0-825c-9685342c823d.xml#113916d8-87b7-41a0-825c-9685342c823d"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_fabf3116-14e2-4af6-badf-fcfeb277ba29.xml#fabf3116-14e2-4af6-badf-fcfeb277ba29"/>
+</archimate:AssociationRelationship>

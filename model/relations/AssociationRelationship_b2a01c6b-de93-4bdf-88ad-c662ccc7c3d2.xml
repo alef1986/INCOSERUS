@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="сайт отделения содержит"
+    id="b2a01c6b-de93-4bdf-88ad-c662ccc7c3d2">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_f367adec-8fcc-4e34-b1e8-8dd24e9ac9dc.xml#f367adec-8fcc-4e34-b1e8-8dd24e9ac9dc"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_9e2dbe5b-26c8-4346-b9c8-bd9a733586de.xml#9e2dbe5b-26c8-4346-b9c8-bd9a733586de"/>
+</archimate:AssociationRelationship>

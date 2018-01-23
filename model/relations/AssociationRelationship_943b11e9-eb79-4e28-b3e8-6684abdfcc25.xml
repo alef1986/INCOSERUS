@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="команда выполняет"
+    id="943b11e9-eb79-4e28-b3e8-6684abdfcc25">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_9b42b35a-b1b8-44fa-aa43-006be8353a64.xml#9b42b35a-b1b8-44fa-aa43-006be8353a64"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_113916d8-87b7-41a0-825c-9685342c823d.xml#113916d8-87b7-41a0-825c-9685342c823d"/>
+</archimate:AssociationRelationship>
